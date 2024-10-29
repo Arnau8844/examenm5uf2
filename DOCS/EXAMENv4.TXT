@@ -18,3 +18,17 @@
    77  clear
    78  git branch -d p2
    79  history
+
+  362  git pull https://github.com/Arnau8844/examenm5uf2.git master
+  363  git Branch p1
+  364  git branch p1
+  365*
+  366  git add .
+  367  git commit -m "HTML Updatev2"
+  368  git push -u examenm5uf2 master
+  369  git push -u examenm5uf2 p1
+  370  git checkout master
+  371  git branch -d p1
+  372  git branch -d p2
+  373  git pull https://github.com/Arnau8844/examenm5uf2.git master
+  374  history
