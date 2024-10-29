@@ -1,0 +1,1 @@
+Aixó és un examen de GitHub 29/10/2024

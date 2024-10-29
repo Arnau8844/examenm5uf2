@@ -1,0 +1,9 @@
+307  mkdir examenm5uf2
+308  cd examenm5uf2/
+309  code README.MD
+310  code COPYLEFT
+311  ls -s
+312  mkdir DOCS
+313  cd DOCS/
+314  code EXAMENv1.TXT
+315  history
