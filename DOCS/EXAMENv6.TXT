@@ -1,0 +1,5 @@
+   85  git pull https://github.com/Arnau8844/examenm5uf2.git master
+   86  git branch mywork
+   87  git checkout mywork
+   88  nano template/furni-1.0.0/index.html
+   89  history
