@@ -1,0 +1,21 @@
+   18  mkdir examenm5uf2
+   19  cd examenm5uf2/
+   20  git init
+   21  git remote add origin https://github.com/Arnau8844/examenm5uf2.git
+   22  clear
+   23  ls
+   24  clear
+   25  git pull
+   26  ls
+   27  git pull examenm5uf2 master
+   28  git pull https://github.com/Arnau8844/examenm5uf2.git master
+   29  ls
+   30  nano LISCENSE
+   31  cp LISCENSE LICENSE
+   32  rm LISCENSE
+   33  ls
+   34  cd DOCS/
+   35  code EXAMENv2.TXT
+   36  nano EXAMENv2.TXT
+   37  ls
+   38  nano EXAMENv2.TXT
