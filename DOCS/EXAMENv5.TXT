@@ -1,0 +1,8 @@
+  373  git pull https://github.com/Arnau8844/examenm5uf2.git master
+  374  history
+  375  nano DOCS/EXAMENv4.TXT
+  376  git add .
+  377  git commit -m "versio4 commit"
+  378  git push -u examenm5uf2 master
+  379  clear
+  380  history
