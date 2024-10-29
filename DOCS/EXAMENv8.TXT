@@ -1,0 +1,15 @@
+  387  git pull https://github.com/Arnau8844/examenm5uf2.git mywork
+  388  git merge mywork
+  389  git merge mywork
+  390  git merge mywork
+  391  git status
+  392  git checkout mywork
+  393  git checkout p1
+  394  git status
+  395  git push
+  396  git checkout p2
+  397  git checkout master
+  398  git push
+  399  git merge mywork
+  400  git merge mywork
+  401  history
