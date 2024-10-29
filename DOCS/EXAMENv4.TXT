@@ -1,0 +1,20 @@
+   60  clear
+   61  git pull https://github.com/Arnau8844/examenm5uf2.git p1
+   62  ls
+   63  git branch p2
+   64  git checkout p2
+   65  git add .
+   66  git push https://github.com/Arnau8844/examenm5uf2.git p2
+   67  git checkout master
+   68* git push
+   69  git push https://github.com/Arnau8844/examenm5uf2.git master
+   70  git push https://github.com/Arnau8844/examenm5uf2.git p2
+   71  hisstory
+   72  history
+   73  clear
+   74  git Branch -d p1
+   75  git branch -d p1
+   76  history
+   77  clear
+   78  git branch -d p2
+   79  history
