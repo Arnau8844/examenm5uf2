@@ -1,0 +1,33 @@
+307  mkdir examenm5uf2
+  308  cd examenm5uf2/
+  309  code README.MD
+  310  code COPYLEFT
+  311  ls -s
+  312  mkdir DOCS
+  313  cd DOCS/
+  314  code EXAMENv1.TXT
+  315  history
+  316  cd ..
+  317  git remote add origin https://github.com/Arnau8844/examenm5uf2.git
+  318  git remote set-url origin https://github.com/Arnau8844/examenm5uf2.git
+  319  git remote add examenm5uf2 https://github.com/Arnau8844/examenm5uf2.git
+  320  git remote add examenm5uf2 https://github.com/Arnau8844/examenm5uf2.git
+  321  git init
+  322  git remote add examenm5uf2 https://github.com/Arnau8844/examenm5uf2.git
+  323  git add .
+  324  git commit –m “V1 Commit”
+  325  git commit –m “primerComit”
+  326  ls -l
+  327  git add .
+  328  git commit -m "PrimerCommit"
+  329  git push
+  330  git push -u examenm5uf2 master
+  331  history
+  332  git commit -m "History Update"
+  333  git add .
+  334  git commit -m "history update"
+  335  git push -u examenm5uf2 master
+  336  git pull https://github.com/Arnau8844/examenm5uf2.git master
+  337  cd DOCS/
+  338  code EXAMENv3.TXT
+  339  history
