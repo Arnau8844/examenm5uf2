@@ -1,0 +1,7 @@
+$ history
+    1  cd examenm5uf2/
+    2  git add .
+    3  git status
+    4  git commit -m "versio7 commit"
+    5  git push -u https://github.com/Arnau8844/examenm5uf2 mywork
+    6  history
